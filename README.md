@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/-Lives%20in%20India-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
