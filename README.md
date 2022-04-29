@@ -3,11 +3,11 @@
 </p>
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
- </p>
+
  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-24-blue" />
+  
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
