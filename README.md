@@ -55,7 +55,7 @@
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+<p  align="center">
 
   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
@@ -88,10 +88,10 @@
       Activeness</b></i>
 </p>
 
-<p><img align="left"
+<p  align="center"><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=HariSankarNayak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
     alt="ovi" /></p>
-<p>&nbsp;<img align="right"
+<p  align="center">&nbsp;<img align="right"
     src="https://github-readme-stats.vercel.app/api?username=HariSankarNayak&show_icons=true&locale=en&theme=chartreuse-dark"
     alt="ovi" width="410" /></p>
 <br><br><br><br><br><br>
