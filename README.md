@@ -98,7 +98,7 @@
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;<i><b>GitHub
-      Streak</b></i </p>
+      Streak</b></i> </p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
       profile
