@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-24-green" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-red" />
   <img src="https://img.shields.io/badge/Lives-India-yellow" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange" />
