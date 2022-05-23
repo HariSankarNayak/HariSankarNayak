@@ -92,9 +92,9 @@
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;GitHub Streak</p><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SparkScratch-P&theme=discord" />
+<img src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=discord" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Contribution
-<img src="https://activity-graph.herokuapp.com/graph?username=SparkScratch-P&theme=react-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=HariSankarNayak&theme=react-dark" />
 
 
 
