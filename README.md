@@ -2,10 +2,8 @@
     <img align="right" alt="GIF" src="https://github.com/HariSankarNayak/HariSankarNayak/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966.gif" />
 </p>
 <br>
-
-
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-24-blue" />
   
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
