@@ -97,13 +97,13 @@
 <br><br><br><br><br><br>
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;<i><b>>GitHub
-      Streak</b></i </p><br><br>
+<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;<i><b>GitHub
+      Streak</b></i </p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
       profile
-      Trophies</b></i></p><br><br>
+      Trophies</b></i></p>
 <img src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=discord" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
-      Contribution</b></i></p><br><br>
+      Contribution</b></i></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=HariSankarNayak&theme=react-dark" />
