@@ -98,12 +98,12 @@
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;<i><b>GitHub
-      Streak</b></i> </p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" />
+      Streak</b></i> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
       profile
-      Trophies</b></i></p>
-<img src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=discord" />
+      Trophies</b></i>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=discord" /></p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
-      Contribution</b></i></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=HariSankarNayak&theme=react-dark" />
+      Contribution</b></i>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=HariSankarNayak&theme=react-dark" /></p>
