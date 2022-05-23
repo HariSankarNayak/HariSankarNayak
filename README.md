@@ -94,7 +94,7 @@
 <p>&nbsp;<img align="right"
     src="https://github-readme-stats.vercel.app/api?username=HariSankarNayak&show_icons=true&locale=en&theme=chartreuse-dark"
     alt="ovi" width="410" /></p>
-<br><br>
+<br><br><br><br>
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;GitHub Streak
