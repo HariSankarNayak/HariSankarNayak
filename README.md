@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+    <img align="right" alt="GIF" src="https://github.com/HariSankarNayak/HariSankarNayak/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966.gif" />
 </p>
 <br>
 
@@ -35,7 +35,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://github.com/HariSankarNayak/HariSankarNayak/blob/main/comp.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -81,13 +81,8 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HariSankarNayak&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=HariSankarNayak&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
+<br><br>
 <hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=juicyfresh&no-bg=true" />
 
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;GitHub Streak</p><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=HariSankarNayak&theme=highcontrast&hide_border=true" />
@@ -95,8 +90,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=HariSankarNayak&theme=discord" />
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Contribution
 <img src="https://activity-graph.herokuapp.com/graph?username=HariSankarNayak&theme=react-dark" />
-
-
 
 
 
