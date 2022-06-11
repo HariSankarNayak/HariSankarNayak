@@ -49,21 +49,22 @@
 <img align="center" alt="side_sticker" src="./comp.gif" />
 </div>
 <div align="center" >
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-  <div align="center" >
-  ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-  ✔ I’m currently Developing a ML based Resume shorting **Python language**<br>
-  ✔ I’m currently learning about **ML** **DS** **deep learning**🥰<br>
-  ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-  ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-  ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30" width="40">&nbsp;
+ <i><b>About me...</b></i>
+<br><br>
   </div>
-</div>
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a ML based Resume shorting **Python language**<br>
+✔ I’m currently learning about **ML** **DS** **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
+
 <br><br>
 
 
 <div  align="center">  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"  align="center">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30" width="40"  align="center">&nbsp;***My working tools...***
 <div  align="center">
 
   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -94,7 +95,7 @@
 </div>
   <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"  height="30" width="40" alt="Git" />&nbsp;
   <i><b>Git Activeness</b></i>
 <br><br>
 <div  align="center">
