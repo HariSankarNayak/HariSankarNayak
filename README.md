@@ -52,19 +52,22 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30" width="40">&nbsp;
  <i><b>About me...</b></i>
 <br><br>
-  </div>
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a ML based Resume shorting **Python language**<br>
-✔ I’m currently learning about **ML** **DS** **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
+ <div align="center" >
 
+✔ Callme: <b>He/His</b> or <b>TeamWorker</b> 😊 <br>
+✔ I’m currently Developing a ML based Resume shorting <b>Python language</b><br>
+✔ I’m currently learning about <b>ML</b> <b>DS</b> <b>deep learning</b>🥰<br>
+✔ I’m looking to collaborate with any <b>Open - Source data science projects</b><br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : <b>I Always try to learn something new and then sleep till it store in the brain</b> 😎
+ </div> </div>
 <br><br>
 
 
 <div  align="center">  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30" width="40"  align="center">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height="30" width="40"  align="center">&nbsp;
+ <i><b>My working tools...</b></i>
+<br><br>
 <div  align="center">
 
   <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -113,7 +116,7 @@
 <hr>
 
 <div align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30" width="40" />&nbsp;
 <i><b>GitHub Streak</b></i> 
 <br><br>
 <div align="center">
@@ -123,7 +126,7 @@
 <br><br><br>
 <hr>
 <div align="center">
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif"height="30" width="40" />&nbsp;
 <i><b>Git profile Trophies</b></i>
 <br><br>
 <div align="center">
@@ -132,7 +135,7 @@
 </div>
 </div>
 <div align="center">
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" height="30" width="40" />&nbsp;<i><b>Git
       Contribution</b></i>
 <br><br>
 <div align="center">
