@@ -13,7 +13,7 @@
 <hr>
 <div align="center">
 <h1 align="center">Hi 
-<img src="./Hi.gif" style="width:30px">,
+<img src="./Hi.gif"  height="30" width="40">,
   I am Hari Sankar Nayak 
 </h1>
 <h3 align="center">Machine Learning | Data Scientist Enthu | Software Engineer </h3>
