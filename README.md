@@ -3,16 +3,17 @@
     src="./mypic.jpeg" style="width:100%;"  />
 </div>
 <br>
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=HariSankarNayak&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-red" />
   <img src="https://img.shields.io/badge/Lives-India-yellow" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange" />
-</p>
+</div>
 <hr>
+<div align="center">
 <h1 align="center">Hi 
-<img src="./Hi.gif" width="30px">,
+<img src="./Hi.gif" style="width:30px">,
   I am Hari Sankar Nayak 
 </h1>
 <h3 align="center">Machine Learning | Data Scientist Enthu | Software Engineer </h3>
@@ -27,15 +28,15 @@
   <a href="mailto: nayak.harisankar12@gmail.com"><img align="center"
       src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </div>
-
+</div>
 <div align="center">
   <em>
     Hello, I am Hari Sankar Nayak a <b>Software Engineer</b>. <br>
     <b>a passionate self-learner</b> <img
-      src="./Developer.gif" width="30px"> and a
+      src="./Developer.gif"height="30" width="40" > and a
     <b>Machine Learning Engineer</b>&nbsp;<img
       src="./Designer.gif"
-      width="36px">&nbsp,<br>who is <b>obsessed</b>
+     height="30" width="40" >&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data
   </em>
   <br>
