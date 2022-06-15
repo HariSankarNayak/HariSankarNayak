@@ -93,7 +93,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
 </div>
 </div>
   <hr>
